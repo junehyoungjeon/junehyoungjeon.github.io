@@ -3466,7 +3466,7 @@ input, select, textarea {
 a:link {
 			color: rgb(25, 0, 255);
 			background-color: transparent;
-			text-decoration: none;
+			text-decoration: underline;
 		  }
 		  
 /* Wrapper (main) */
